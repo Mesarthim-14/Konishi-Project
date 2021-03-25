@@ -380,7 +380,7 @@ PARTICLESET
 	SIZE = 1000.0 0.0 1000.0		# サイズ
 	MOVE = 0.0 0.0 0.0				# 移動量
 	DISTANCE = 1.0 1.0 1.0			# 距離
-	LIFE = 1000						# 体力
+	LIFE = 30						# 体力
 	NUM = 1							# 数
 	COLOR = 1.0 1.0 1.0 2.0			# 色
 	GRAVITY = 0						# 重力
